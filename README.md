@@ -4,7 +4,7 @@
 
 # 💫 About Me:
 - 🔭 I’m currently working on **@xcymutte and @TechSchole-Indonesia**<br><br>
-- 🌱 I’m currently learning **React js, Tailwind CSS, Node js,**<br><br>
+- 🌱 I’m currently learning **Fullstack Development**<br><br>
 - 📫 How to reach me **rhmad.yayat102@gmail.com**<br><br>
 - ⚡ Fun fact **I think im HUNGRY 🍔🍜🍛🍕🥪**
 
@@ -21,11 +21,16 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rahmadyd&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
----
-[![](https://visitcount.itsvg.in/api?id=rahmadyd&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=rahmadyd&theme=dracula&area=true">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=rahmadyd&theme=github&area=true">
   <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=rahmadyd&area=true">
+</picture>
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rahmadyd/rahmadyd/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rahmadyd/rahmadyd/output/github-snake.svg">
+  <img alt="Snake Eating Contributions" src="https://raw.githubusercontent.com/rahmadyd/rahmadyd/output/github-snake.svg">
 </picture>
