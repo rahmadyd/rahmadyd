@@ -24,4 +24,8 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=rahmadyd&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=rahmadyd&theme=dracula&area=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=rahmadyd&theme=github&area=true">
+  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=rahmadyd&area=true">
+</picture>
