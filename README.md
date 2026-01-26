@@ -3,8 +3,8 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=rahmadyd&color=blue&style=flat-square)
 
 # 💫 About Me:
-- 🔭 I’m currently working on **@xcymutte and @TechSchole-Indonesia**<br><br>
-- 🌱 I’m currently learning **Fullstack Development**<br><br>
+- 🔭 I’m currently working on **Freelancer**<br><br>
+- 🌱 I’m currently learning **Fullstack Web Development and AI**<br><br>
 - 📫 How to reach me **rhmad.yayat102@gmail.com**<br><br>
 - ⚡ Fun fact **I think im HUNGRY 🍔🍜🍛🍕🥪**
 
