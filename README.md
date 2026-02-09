@@ -4,8 +4,8 @@
 
 # 💫 About Me:
 - 🔭 I’m currently working on **Freelancer**<br><br>
-- 🌱 I’m currently learning **Fullstack Web Development, AI & Data**<br><br>
-- 📫 How to reach me **rhmad.yayat102@gmail.com**<br><br>
+- 🌱 I’m currently learning **Software Engineer, AI & Data**<br><br>
+- 📫 How to reach me **rahmad.hidayad.work@gmail.com**<br><br>
 - ⚡ Fun fact **I think im HUNGRY 🍔🍜🍛🍕🥪**
 
 
