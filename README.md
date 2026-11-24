@@ -87,11 +87,11 @@ I'm an **AI Engineer** who loves turning raw data and logs into systems people c
       <h3>👵 Elderly Monitoring</h3>
       <sub><b>Real-time Vision System · Thesis</b></sub>
       <p>Detection model trained on <b>1,200 augmented images</b>: <b>94% accuracy</b>, <b>100% precision</b>, <b>94% F1-score</b>.</p>
-      <code>YOLOv7</code> · <code>PyTorch</code>
+      <code>YOLOv7</code> · <code>PyTorch</code> · <code>Roboflow</code>
     </td>
     <td width="50%" valign="top">
       <h3>🌾 Rice-Quality Detection</h3>
-      <sub><b>Small-Object Detection · AI Mentor</b></sub>
+      <sub><b>Small-Object Detection · Private AI Mentor</b></sub>
       <p>Guided students through small-object detection workflows for grain quality inspection.</p>
       <code>YOLOv8</code> · <code>SAHI</code> · <code>Roboflow</code>
     </td>
