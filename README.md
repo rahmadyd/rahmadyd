@@ -2,7 +2,15 @@
 
 # Rahmad Hidayad
 
+<<<<<<< HEAD
 **AI Engineer | LLM & RAG Systems**
+=======
+# 💫 About Me:
+- 🔭 I’m currently working on **Freelancer**<br><br>
+- 🌱 I’m currently learning **Software Engineer, AI & Data**<br><br>
+- 📫 How to reach me **rahmad.hidayad.work@gmail.com**<br><br>
+- ⚡ Fun fact **I think im HUNGRY 🍔🍜🍛🍕🥪**
+>>>>>>> f3dc572ed1b303059a654f478a36be915aef4032
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=620&lines=Building+LLM+%26+RAG+pipelines;Semantic+search+%26+prompt+engineering;Computer+vision+with+YOLO;Turning+messy+data+into+useful+AI" alt="Typing SVG" />
