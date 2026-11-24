@@ -2,7 +2,7 @@
 
 # Rahmad Hidayad
 
-**AI Engineer | LLM & RAG Systems**
+**AI Engineer | LLM & RAG Systems/Computer Vision**
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=620&lines=Building+LLM+%26+RAG+pipelines;Semantic+search+%26+prompt+engineering;Computer+vision+with+YOLO;Turning+messy+data+into+useful+AI" alt="Typing SVG" />
